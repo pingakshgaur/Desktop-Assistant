@@ -1,29 +1,29 @@
-# Desktop Assistant SCAI - ReadMe
+# <ins>Desktop Assistant SCAI - ReadMe</ins>
 A comprehensive voice-controlled desktop assistant built with Python that responds to voice commands and automates various computer tasks through speech recognition and text-to-speech technology.
 
 ## 🚀 Features :-
 
-- **<ins>Voice Recognition</ins>**: Responds to natural voice commands in English.
-- **Text-to-Speech**: Provides audio feedback with customizable voice options.
-- **Web Automation**: Opens websites, performs Google/YouTube searches.
-- **Application Control**: Launches apps like VS Code, WhatsApp, Discord, Spotify, etc.
-- **System Management**: Clears temp files, manages Recycle Bin.
-- **Email Integration**: Automated email sending through Gmail.
-- **Music Control**: Spotify playlist management and playback.
-- **Wikipedia Integration**: Fetches and reads Wikipedia summaries.
-- **Time & Weather**: Real-time information and weather reports.
-- **Sound Effects**: Interactive audio feedback for enhanced user experience.
+- **_Voice Recognition_**: Responds to natural voice commands in English.
+- **_Text-to-Speech_**: Provides audio feedback with customizable voice options.
+- **_Web Automation_**: Opens websites, performs Google/YouTube searches.
+- **_Application Control_**: Launches apps like VS Code, WhatsApp, Discord, Spotify, etc.
+- **_System Management_**: Clears temp files, manages Recycle Bin.
+- **_Email Integration_**: Automated email sending through Gmail.
+- **_Music Control_**: Spotify playlist management and playback.
+- **_Wikipedia Integration_**: Fetches and reads Wikipedia summaries.
+- **_Time & Weather_**: Real-time information and weather reports.
+- **_Sound Effects_**: Interactive audio feedback for enhanced user experience.
 
 ## 🛠️ Technologies Used :-
 
 - **Python 3.6+**
-- **speech_recognition** - Voice command processing
-- **pyttsx3** - Text-to-speech conversion
-- **pyautogui** - GUI automation and control
-- **webbrowser** - Web browser automation
-- **wikipedia** - Wikipedia API integration
-- **datetime** - Time and date management
-- **winsound** - Sound effects playback
+- **_speech_recognition_** - Voice command processing
+- **_pyttsx3_** - Text-to-speech conversion
+- **_pyautogui_** - GUI automation and control
+- **_webbrowser_** - Web browser automation
+- **_wikipedia_** - Wikipedia API integration
+- **_datetime_** - Time and date management
+- **_winsound_** - Sound effects playback
 - **os** - System operations
 
 ## 📋 Prerequisites :-
@@ -49,6 +49,7 @@ pip install pyttsx3
 pip install speechrecognition
 pip install wikipedia
 pip install webbrowser
+pip install pyaudio
 ```
 
 3. **Setup microphone permissions** (if required by your OS)
@@ -79,7 +80,7 @@ Desktop-Assistant-SCAI/
 ├── scai-d.py                    # Main assistant script
 ├── SFX/...                      # Sound effects folder
 ├── README.md                    # Project documentation
-└── requirements.txt             # Python dependencies
+└── REQUIREMENTS.md              # Python dependencies
 ```
 
 ## 🔧 Configuration :-
