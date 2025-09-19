@@ -1,6 +1,6 @@
 # <ins>Desktop Assistant SCAI - Requirements</ins>
 
-> ## 📚 Libraries & Versions :-
+## 📚 Libraries & Versions :-
 
 #### Python 3.6+ required
 
@@ -57,5 +57,6 @@ The following modules come pre-installed with Python and **do not require separa
 pip install requests
 pip install pywin32
 ```
+
 
 
