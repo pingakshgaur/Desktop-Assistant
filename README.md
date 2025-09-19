@@ -3,7 +3,7 @@ A comprehensive voice-controlled desktop assistant built with Python that respon
 
 ## 🚀 Features :-
 
-- **<Voice Recognition>**: Responds to natural voice commands in English.
+- **<ins>Voice Recognition</ins>**: Responds to natural voice commands in English.
 - **Text-to-Speech**: Provides audio feedback with customizable voice options.
 - **Web Automation**: Opens websites, performs Google/YouTube searches.
 - **Application Control**: Launches apps like VS Code, WhatsApp, Discord, Spotify, etc.
