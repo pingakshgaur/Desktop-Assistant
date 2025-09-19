@@ -77,7 +77,7 @@ python scai-d.py
 ```
 Desktop-Assistant-SCAI/
 │
-├── scai-d.py                    # Main assistant script
+├── da-SCAI.py                   # Main assistant script
 ├── SFX/...                      # Sound effects folder
 ├── README.md                    # Project documentation
 └── REQUIREMENTS.md              # Python dependencies
