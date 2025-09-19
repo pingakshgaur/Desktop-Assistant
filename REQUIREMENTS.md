@@ -1,6 +1,6 @@
-# Desktop Assistant SCAI - Requirements
+# <ins>Desktop Assistant SCAI - Requirements</ins>
 
-## 📚 Libraries & Versions :-
+> ## 📚 Libraries & Versions :-
 
 #### Python 3.6+ required
 
@@ -9,14 +9,13 @@
 
 `SpeechRecognition (3.10.0)` - Voice recognition and command processing
 
+`PyAudio (0.2.14)` - Real-time audio recording and playback
+
 #### GUI Automation and System Control :
 `PyAutoGUI (0.9.54)` - Mouse and keyboard automation
 
 #### Web and API Integration :
 `wikipedia (1.4.0)` - Wikipedia API for information retrieval
-
-#### Audio I/O and Recording Library :
-`PyAudio (0.2.14)` - Real-time audio recording and playback
 
 #### Built-in Python Modules :
 `os` - Built-in module for operating system interface
@@ -58,4 +57,5 @@ The following modules come pre-installed with Python and **do not require separa
 pip install requests
 pip install pywin32
 ```
+
 
