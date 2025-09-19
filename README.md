@@ -127,10 +127,10 @@ This project is not licensed under any company or individual and is Free for any
 
 ## 👤 Author :-
 
-**Your Name**
-- GitHub: [@pingakshgaur](https://github.com/pingakshgaur)
-- LinkedIn: [Pingaksh Gaur](https://linkedin.com/in/pingakshgaur)
-- Email: pingakshgaur@gmail.com
+**Pingaksh Gaur**
+- GitHub: _[@pingakshgaur](https://github.com/pingakshgaur)_
+- LinkedIn: _[Pingaksh Gaur](https://linkedin.com/in/pingakshgaur)_
+- Email: _pingakshgaur@gmail.com_
 
 ## 🙏 Acknowledgments :-
 
