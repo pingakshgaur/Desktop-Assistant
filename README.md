@@ -1,4 +1,4 @@
-# Desktop-Assistant - SCAI
+# Desktop-Assistant SCAI - ReadMe
 A comprehensive voice-controlled desktop assistant built with Python that responds to voice commands and automates various computer tasks through speech recognition and text-to-speech technology.
 
 ## 🚀 Features :-
