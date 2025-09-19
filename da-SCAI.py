@@ -28,6 +28,7 @@ engine.setProperty('volume', 100) # (1 to 100)
 
 # =========================================================
 """SOUND EFFECTS - SFX"""
+
 system_ready_sfx = 'SFX\\system-ready.wav'
 listening_sfx = 'SFX\\listening.wav'
 recognize_sfx = 'SFX\\recognizing.wav'
